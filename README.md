@@ -7,5 +7,5 @@ In the scratch,there are mainly 2 individuals namely Users and Projects .There a
 4.Watched
 5.Remixes
 6.User comments
-
+As Initial step,
 Randomly selected 10000 users from follow.csv file and performed the analysis.
